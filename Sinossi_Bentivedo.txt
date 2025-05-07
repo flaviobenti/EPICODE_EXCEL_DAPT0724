@@ -1,0 +1,23 @@
+-- Panoramica del Progetto --
+
+Questo studio si propone di esplorare e analizzare in modo approfondito i dati relativi al traffico ferroviario in Europa, concentrandosi su fenomeni quali ritardi, cancellazioni e altre variabili che influenzano la puntualità dei treni. 
+
+Attraverso l’esame di informazioni storiche provenienti da diverse reti ferroviarie e stazioni, l’obiettivo è individuare le cause predominanti dei disservizi e tracciare modelli che possano favorire il perfezionamento delle operazioni nel settore.
+
+-- Obiettivi --
+
+- Estrarre e studiare dati pregressi per comprendere le dinamiche dei ritardi, analizzando le motivazioni sottostanti (condizioni atmosferiche avverse, congestione del traffico su rotaia, guasti infrastrutturali, ecc.).
+
+- Valutare le prestazioni delle principali aziende ferroviarie e delle stazioni, evidenziando punti di forza e criticità operative.
+
+- Determinare i fattori con maggiore impatto sulla regolarità dei servizi ferroviari e individuare strategie mirate per ottimizzare la puntualità.
+
+- Realizzare strumenti di visualizzazione interattivi che agevolino la comprensione dei dati e la comunicazione dei risultati agli stakeholder del settore.
+
+-- Strumenti e Tecnologie --
+
+- Python: impiegato per la raccolta, il trattamento e l’analisi statistica dei dati ferroviari.
+
+- Power BI: utilizzato per la creazione di dashboard dinamiche che rappresentino in maniera intuitiva le tendenze del traffico su rotaia.
+
+- SQL (opzionale): strumento utile per effettuare interrogazioni complesse e gestire con efficienza database di grandi dimensioni.
