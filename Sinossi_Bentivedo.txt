@@ -1,0 +1,13 @@
+# **Descrizione Generale**  
+Il progetto mira a raccogliere e analizzare i dati sui treni in Europa, concentrandosi su ritardi, cancellazioni e altri fattori che influenzano la puntualità. Utilizzando dati storici relativi a varie stazioni e compagnie ferroviarie, l'obiettivo è comprendere le cause principali dei ritardi e identificare tendenze che possano supportare l'ottimizzazione dei processi operativi nel settore ferroviario.
+
+# **Finalità del Progetto**  
+- Acquisire e analizzare i dati storici sui treni, incluse le informazioni sui ritardi e le loro cause (condizioni atmosferiche, traffico ferroviario, guasti tecnici, ecc.).
+- Esaminare la performance delle compagnie ferroviarie e delle stazioni, evidenziando le aree con maggiore o minore efficienza.
+- Identificare i fattori che influenzano maggiormente la puntualità dei treni e le possibili soluzioni.
+- Creare visualizzazioni interattive per facilitare l'analisi e la comunicazione dei risultati agli stakeholder.
+
+# **Strumenti e Tecnologie**  
+- **Python**: per l'acquisizione, la pulizia e l'analisi dei dati.  
+- **Power BI**: per la realizzazione di dashboard interattive e la visualizzazione delle performance dei treni.  
+- **SQL (opzionale)**: per l'interrogazione dei dati e la gestione efficiente delle informazioni.  
